@@ -8,12 +8,15 @@
           |-- project1/
           |   |-- pr1.ipynb
           |   |-- Moscow.geojson
+          |   |-- README.md
           |
           |-- project2/
           |   |-- anomaly_detection.ipynb 
+          |   |-- README.md
           |
           |-- project3/
           |   |-- construction_analysis.ipynb
+          |   |-- README.md
 
 
 # Проект 1: Анализ рынка заведений общественного питания Москвы
