@@ -9,7 +9,6 @@
           |   |-- pr1.ipynb
           |   |-- Moscow.geojson
           |
-          
           |-- project2/
           |   |-- anomaly_detection.ipynb 
           |
