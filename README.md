@@ -4,16 +4,17 @@
 Все проекты расположены в отдельных папках project1, project2 и project3.
 
 **Cтруктура репозитория**
-  /
-  |-- project1/
-  |   |-- pr1.ipynb
-  |   |-- Moscow.geojson
-  |
-  |-- project2/
-  |   |-- anomaly_detection.ipynb 
-  |
-  |-- project3/
-  |   |-- construction_analysis.ipynb
+          
+          |-- project1/
+          |   |-- pr1.ipynb
+          |   |-- Moscow.geojson
+          |
+          
+          |-- project2/
+          |   |-- anomaly_detection.ipynb 
+          |
+          |-- project3/
+          |   |-- construction_analysis.ipynb
 
 
 # Проект 1: Анализ рынка заведений общественного питания Москвы
